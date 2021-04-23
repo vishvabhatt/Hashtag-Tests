@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Timeline
+   version = "3.0">
+   <TimelineItems>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/vishva.bhatt/Desktop/TestingSnippest.playground#CharacterRangeLen=1&amp;CharacterRangeLoc=420&amp;EndingColumnNumber=0&amp;EndingLineNumber=13&amp;StartingColumnNumber=1&amp;StartingLineNumber=12&amp;Timestamp=631617281.38939"
+         lockedSize = "{512, 188}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/vishva.bhatt/Desktop/TestingSnippest.playground#CharacterRangeLen=13&amp;CharacterRangeLoc=565&amp;EndingColumnNumber=21&amp;EndingLineNumber=17&amp;StartingColumnNumber=8&amp;StartingLineNumber=17&amp;Timestamp=631617281.389488"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+      <LoggerValueHistoryTimelineItem
+         documentLocation = "file:///Users/vishva.bhatt/Desktop/TestingSnippest.playground#CharacterRangeLen=55&amp;CharacterRangeLoc=776&amp;EndingColumnNumber=0&amp;EndingLineNumber=21&amp;StartingColumnNumber=81&amp;StartingLineNumber=18&amp;Timestamp=631617281.389558"
+         lockedSize = "{1035, 79}"
+         selectedRepresentationIndex = "0"
+         shouldTrackSuperviewWidth = "NO">
+      </LoggerValueHistoryTimelineItem>
+   </TimelineItems>
+</Timeline>
